@@ -8,4 +8,4 @@ Again I used this tool: https://griddy.io/ cause it's my third time to use the g
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Four-Card-Feature/
+Live: https://billgeorgop93.github.io/Four-Card-Feature/
